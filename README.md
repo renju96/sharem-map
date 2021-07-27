@@ -1,2 +1,2 @@
 # sharem-map
-map based share memory
+hashmap based shared-memory
